@@ -101,7 +101,7 @@ This paper...
 
 *IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 11, pp.5709 - 5722, November 2024 中科院一区 (2022), CCF A, JCR Q1*
 
-This paper...
+This paper presents a refined DBSCAN algorithm that utilizes block-diagonal similarity graphs to improve clustering, addressing challenges in high-dimensional datasets, sensitivity to parameters, and inconsistent outcomes.
 
 </div>
 </div>
@@ -121,7 +121,7 @@ This paper...
 *IEEE Transactions on Signal Processing (TSP), vol. 72, no. 22, pp.2512 - 2526, February 2024, 中科院一区 (2022), JCR Q1*
 
 
-This paper...
+This paper introduces a refined DBSCAN algorithm utilizing block-diagonal similarity graphs, addressing challenges in high-dimensional data and parameter sensitivity. It employs a self-representation model, gradient descent, and a traversal algorithm to generate enhanced cluster orderings, achieving superior clustering performance on real-world datasets.
 
 </div>
 </div>
