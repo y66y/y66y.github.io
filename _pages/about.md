@@ -67,7 +67,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
     <div class="badge">IoT-J</div>
-    <img src="images/IOTJ2024.png" alt="sym" width="60%">
+    <img src="images/IOTJ2024.png" alt="sym" width="100%">
   </div>
   <div style="flex: 3;">
     <a href="https://ieeexplore.ieee.org/document/10735384">
@@ -77,7 +77,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
     <strong>Zheng Xing</strong>, Weibing Zhao
     <br>
     <em>IEEE Internet of Things Journal (IoT-J), vol. 0, no. 0, pp. 0 - 0, November 2024, 中科院一区 (2023), JCR Q1</em>
-    <br><br>
+    <br>
     This paper presents a calibration-free indoor positioning method using received signal strength (RSS) measurements, eliminating the need for location labels or IMUs. By applying regional channel tracing (RCT) and subspace clustering, it accurately estimates locations and path loss models, achieving performance comparable to IMU-based methods in real-world environments.
   </div>
 </div>
@@ -86,135 +86,167 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/TIP2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Segmentation and Completion of Human Motion Sequence via Temporal
-Learning of Subspace Variety Model](https://pubmed.ncbi.nlm.nih.gov/39178090/)
-
-**Zheng Xing**, Weibing Zhao
-
-*IEEE Transactions on Image Processing (TIP), vol. 0, no. 0, pp.0 - 0, November 2024 中科院一区 (2023), CCF A, JCR Q1*
-
-This paper introduces the Temporal Learning of Subspace Variety Model (TL-SVM) for human motion sequence segmentation and completion. It enhances segmentation by incorporating temporal priors, addressing missing entries through a spatio-temporal assignment consistency constraint, and completing sequences via subspace clustering. Extensive experiments demonstrate its superior performance.
-
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <div class="badge">TIP</div>
+    <img src="images/TIP2024.png" alt="sym" width="100%">
+  </div>
+  <div style="flex: 3;">
+    <a href="https://pubmed.ncbi.nlm.nih.gov/39178090/">
+      Segmentation and Completion of Human Motion Sequence via Temporal Learning of Subspace Variety Model
+    </a>
+    <br>
+    <strong>Zheng Xing</strong>, Weibing Zhao
+    <br>
+    <em>IEEE Transactions on Image Processing (TIP), vol. 0, no. 0, pp. 0 - 0, November 2024, 中科院一区 (2023), CCF A, JCR Q1</em>
+    <br>
+    This paper introduces the Temporal Learning of Subspace Variety Model (TL-SVM) for human motion sequence segmentation and completion. It enhances segmentation by incorporating temporal priors, addressing missing entries through a spatio-temporal assignment consistency constraint, and completing sequences via subspace clustering. Extensive experiments demonstrate its superior performance.
+  </div>
 </div>
-</div>
+
  
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='images/TKDE2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Block-Diagonal Guided DBSCAN Clustering](https://ieeexplore.ieee.org/document/10530414)
-
-**Zheng Xing**, Weibing Zhao
-
-*IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 11, pp.5709 - 5722, November 2024 中科院一区 (2022), CCF A, JCR Q1*
-
-This paper introduces a refined DBSCAN algorithm utilizing block-diagonal similarity graphs, addressing challenges in high-dimensional data and parameter sensitivity. It employs a self-representation model, gradient descent, and a traversal algorithm to generate enhanced cluster orderings, achieving superior clustering performance on real-world datasets.
-
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <div class="badge">TKDE</div>
+    <img src="images/TKDE2024.png" alt="sym" width="100%">
+  </div>
+  <div style="flex: 3;">
+    <a href="https://ieeexplore.ieee.org/document/10530414">
+      Block-Diagonal Guided DBSCAN Clustering
+    </a>
+    <br>
+    <strong>Zheng Xing</strong>, Weibing Zhao
+    <br>
+    <em>IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 11, pp. 5709 - 5722, November 2024, 中科院一区 (2022), CCF A, JCR Q1</em>
+    <br>
+    This paper introduces a refined DBSCAN algorithm utilizing block-diagonal similarity graphs, addressing challenges in high-dimensional data and parameter sensitivity. It employs a self-representation model, gradient descent, and a traversal algorithm to generate enhanced cluster orderings, achieving superior clustering performance on real-world datasets.
+  </div>
 </div>
-</div>
-
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSP</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Constructing Indoor Region-Based Radio Map Without Location Labels](https://ieeexplore.ieee.org/abstract/document/10443723/)
-
-**Zheng Xing**, Junting Chen
-
-<!-- -->
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
-*IEEE Transactions on Signal Processing (TSP), vol. 72, no. 22, pp.2512 - 2526, February 2024, 中科院一区 (2022), JCR Q1*
-
-
-This paper proposes an unsupervised method for constructing region-based radio maps without location labels, using RSS measurements. The method integrates subspace clustering with sequential priors, overcoming challenges posed by noisy and multipath-affected data. It achieves superior localization performance, outperforming supervised techniques like KNN, SVM, and DNN.
-
-</div>
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <div class="badge">TSP</div>
+    <img src="images/TSP2024.png" alt="sym" width="100%">
+  </div>
+  <div style="flex: 3;">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10443723/">
+      Constructing Indoor Region-Based Radio Map Without Location Labels
+    </a>
+    <br>
+    <strong>Zheng Xing</strong>, Junting Chen
+    <br>
+    <em>IEEE Transactions on Signal Processing (TSP), vol. 72, no. 22, pp. 2512 - 2526, February 2024, 中科院一区 (2022), JCR Q1</em>
+    <br>
+    This paper proposes an unsupervised method for constructing region-based radio maps without location labels, using RSS measurements. The method integrates subspace clustering with sequential priors, overcoming challenges posed by noisy and multipath-affected data. It achieves superior localization performance, outperforming supervised techniques like KNN, SVM, and DNN.
+  </div>
 </div>
 
 ## Conference Papers
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC</div><img src='images/ICC2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Constructing Angular Power Maps in Massive MIMO Networks Using Measurements without Location Labels](https://arxiv.org/abs/2502.01280)
-
-**Zheng Xing**, Junting Chen
-
-*IEEE International Conference on Communications (ICC), 2025.*
-
-This paper proposes an unsupervised method for constructing angular power maps in massive MIMO networks using CSI data without location labels. By leveraging a hidden Markov model to estimate mobile trajectories, the approach enables accurate radio map construction and improves CSI prediction performance by over 20% compared to traditional methods.
-
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <div class="badge">ICC</div>
+    <img src="images/ICC2025.png" alt="sym" width="100%">
+  </div>
+  <div style="flex: 3;">
+    <a href="https://arxiv.org/abs/2502.01280">
+      Constructing Angular Power Maps in Massive MIMO Networks Using Measurements without Location Labels
+    </a>
+    <br>
+    <strong>Zheng Xing</strong>, Junting Chen
+    <br>
+    <em>IEEE International Conference on Communications (ICC), 2025.</em>
+    <br>
+    This paper proposes an unsupervised method for constructing angular power maps in massive MIMO networks using CSI data without location labels. By leveraging a hidden Markov model to estimate mobile trajectories, the approach enables accurate radio map construction and improves CSI prediction performance by over 20% compared to traditional methods.
+  </div>
 </div>
+
+
+
+<!-- ############################ -->
+
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <div class="badge">AAAI</div>
+    <img src="images/AAAI2024.png" alt="sym" width="100%">
+  </div>
+  <div style="flex: 3;">
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28445">
+      Unsupervised Action Segmentation via Fast Learning of Semantically Consistent Actoms
+    </a>
+    <br>
+    <strong>Zheng Xing</strong>, Weibing Zhao
+    <br>
+    <em>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), vol. 38, no. 6, pp. 6270–6278, 2024.</em>
+    <br>
+    This paper presents a fast, unsupervised action segmentation framework that divides videos into semantically consistent actoms. Using a subspace-based similarity measure, it efficiently splits and merges actoms, ensuring coherent segmentation. The method outperforms existing approaches in both accuracy and learning time across four benchmark datasets.
+  </div>
 </div>
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/AAAI2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Unsupervised Action Segmentation via Fast Learning of Semantically Consistent Actoms](https://ojs.aaai.org/index.php/AAAI/article/view/28445)
-
-**Zheng Xing**, Weibing Zhao
-
-*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), vol. 38, no. 6, pp. 6270–6278, 2024.*
-
-This paper presents a fast, unsupervised action segmentation framework that divides videos into semantically consistent actoms. Using a subspace-based similarity measure, it efficiently splits and merges actoms, ensuring coherent segmentation. The method outperforms existing approaches in both accuracy and learning time across four benchmark datasets.
-
-</div>
-</div>
-
-
-<!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP</div><img src='images/Icassp2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HMM-Based CSI Embedding for Trajectory Recovery from RSS Measurements of Non-Cooperative Devices](https://sigport.org/documents/hmm-based-csi-embedding-trajectory-recovery-rss-measurements-non-cooperative-devices)
-
-**Zheng Xing**, Junting Chen
-
-*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 7060–7064, 2024.*
-
-This paper presents an HMM-based CSI embedding method for trajectory recovery in outdoor vehicular communication scenarios. By mapping CSI measurements to vehicle locations, it accurately reconstructs user trajectories with a 23-meter localization error. The method provides a promising approach for efficient radio map construction and localization.
-
-</div>
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <div class="badge">ICASSP</div>
+    <img src="images/Icassp2024.png" alt="sym" width="100%">
+  </div>
+  <div style="flex: 3;">
+    <a href="https://sigport.org/documents/hmm-based-csi-embedding-trajectory-recovery-rss-measurements-non-cooperative-devices">
+      HMM-Based CSI Embedding for Trajectory Recovery from RSS Measurements of Non-Cooperative Devices
+    </a>
+    <br>
+    <strong>Zheng Xing</strong>, Junting Chen
+    <br>
+    <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 7060–7064, 2024.</em>
+    <br>
+    This paper presents an HMM-based CSI embedding method for trajectory recovery in outdoor vehicular communication scenarios. By mapping CSI measurements to vehicle locations, it accurately reconstructs user trajectories with a 23-meter localization error. The method provides a promising approach for efficient radio map construction and localization.
+  </div>
 </div>
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GlobeCom</div><img src='images/GlobeCom2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Integrated Segmentation and Subspace Clustering for RSS-Based Localization under Blind Calibration](https://ieeexplore.ieee.org/document/10001272/)
-
-**Zheng Xing**, Junting Chen
-
-*IEEE Global Communications Conference (GlobeCom), pp. 5360–5365, 2022.*
-
-This paper develops an integrated segmentation and subspace clustering method for RSS-based indoor localization with blind calibration. It utilizes sequential data and signal subspace structure to classify regions. The approach reduces region localization error by 50%, outperforming traditional and supervised methods, demonstrating superior performance in real-world scenarios.
-
-</div>
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <div class="badge">GlobeCom</div>
+    <img src="images/GlobeCom2023.png" alt="sym" width="100%">
+  </div>
+  <div style="flex: 3;">
+    <a href="https://ieeexplore.ieee.org/document/10001272/">
+      Integrated Segmentation and Subspace Clustering for RSS-Based Localization under Blind Calibration
+    </a>
+    <br>
+    <strong>Zheng Xing</strong>, Junting Chen
+    <br>
+    <em>IEEE Global Communications Conference (GlobeCom), pp. 5360–5365, 2022.</em>
+    <br>
+    This paper develops an integrated segmentation and subspace clustering method for RSS-based indoor localization with blind calibration. It utilizes sequential data and signal subspace structure to classify regions. The approach reduces region localization error by 50%, outperforming traditional and supervised methods, demonstrating superior performance in real-world scenarios.
+  </div>
 </div>
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCNC</div><img src='images/WCNC2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Spectrum Efficiency Prediction for Real-World 5G Networks Based on Drive Testing Data](https://ieeexplore.ieee.org/document/9771696)
-
-**Zheng Xing**, Weibing Zhao
-
-*IEEE Wireless Communications and Networking Conference (WCNC), pp. 2136–2141, 2022.*
-
-This paper develops a model-assisted, data-driven approach for predicting spectrum efficiency (SE) in 5G networks, utilizing RSRP from drive test data. A joint interference and SE prediction network, along with a classification-assisted model, improves accuracy by approximately 2%, outperforming purely data-driven methods.
-
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <div class="badge">WCNC</div>
+    <img src="images/WCNC2022.png" alt="sym" width="100%">
+  </div>
+  <div style="flex: 3;">
+    <a href="https://ieeexplore.ieee.org/document/9771696">
+      Spectrum Efficiency Prediction for Real-World 5G Networks Based on Drive Testing Data
+    </a>
+    <br>
+    <strong>Zheng Xing</strong>, Weibing Zhao
+    <br>
+    <em>IEEE Wireless Communications and Networking Conference (WCNC), pp. 2136–2141, 2022.</em>
+    <br>
+    This paper develops a model-assisted, data-driven approach for predicting spectrum efficiency (SE) in 5G networks, utilizing RSRP from drive test data. A joint interference and SE prediction network, along with a classification-assisted model, improves accuracy by approximately 2%, outperforming purely data-driven methods.
+  </div>
 </div>
-</div>
+
 
 ## Patents
 - 邢正,陈俊挺,一种基于接收信号强度的轨迹恢复及无线电地图构建方法,	中国, 1775494.6	1,	2024年9月27日,		CN 117768843 B
