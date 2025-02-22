@@ -220,7 +220,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
       Integrated Segmentation and Subspace Clustering for RSS-Based Localization under Blind Calibration
     </a>
     <br>
-    <strong>Zheng Xing</strong>, Junting Chen
+    <strong>Zheng Xing</strong>, Junting Chen, Yadan Tang
     <br>
     <em>IEEE Global Communications Conference (GlobeCom), pp. 5360–5365, 2022.</em>
     <br>
@@ -239,7 +239,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
       Spectrum Efficiency Prediction for Real-World 5G Networks Based on Drive Testing Data
     </a>
     <br>
-    <strong>Zheng Xing</strong>, Weibing Zhao
+    <strong>Zheng Xing</strong>, Haoyun Li, Wenjie Liu, Zixiang Ren, Junting Chen, Jie Xu, Cai Qin
     <br>
     <em>IEEE Wireless Communications and Networking Conference (WCNC), pp. 2136–2141, 2022.</em>
     <br>
