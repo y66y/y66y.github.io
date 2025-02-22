@@ -33,17 +33,38 @@ My research interest includes neural machine translation and computer vision.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSP</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Block-Diagonal Guided DBSCAN Clustering](https://ieeexplore.ieee.org/document/10530414)
+
+**Zheng Xing**, Weibing Zhao
+
+*IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 11, pp.5709 - 5722, November 2024 中科院一区, CCF A, JCR Q1*
+
+This paper...
+
+</div>
+</div>
+ ( Volume: 36, Issue: 11, November 2024)
+
+
+<!-- ############################ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSP</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Constructing Indoor Region-Based Radio Map Without Location Labels](https://ieeexplore.ieee.org/abstract/document/10443723/)
 
 **Zheng Xing**, Junting Chen
 
 <!-- -->
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- IEEE Transactions on Signal Processing (TSP), vol. 72, pp.2512 - 2526, 22 February 2024
-- This paper...
+
+*IEEE Transactions on Signal Processing (TSP), vol. 72, no. 22, pp.2512 - 2526, February 2024, 中科院一区, JCR Q1*
+This paper...
+
 </div>
 </div>
 
