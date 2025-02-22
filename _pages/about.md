@@ -34,7 +34,57 @@ My research interest includes neural machine translation and computer vision.
 # 📝 Publications 
 
 
+<!-- ############################ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Trajectory Map-Matching in Urban Road Networks Based on RSS Measure-
+ments](https://arxiv.org/abs/2502.01280)
+
+**Zheng Xing**, Weibing Zhao
+
+*IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 0, no. 0, pp.0 - 0, January 2025 中科院一区 (2023), JCR Q1*
+
+This paper...
+
+</div>
+</div>
+
+
+<!-- ############################ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoT-J</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Calibration-Free Indoor Positioning via Regional Channel Tracing](https://ieeexplore.ieee.org/document/10735384)
+
+**Zheng Xing**, Weibing Zhao
+
+*IEEE Internet of Things Journal (IoT-J), vol. 0, no. 0, pp.0 - 0, November 2024 中科院一区 (2023), JCR Q1*
+
+This paper...
+
+</div>
+</div>
+
+
+
+<!-- ############################ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Segmentation and Completion of Human Motion Sequence via Temporal
+Learning of Subspace Variety Model](https://pubmed.ncbi.nlm.nih.gov/39178090/)
+
+**Zheng Xing**, Weibing Zhao
+
+*IEEE Transactions on Image Processing (TIP), vol. 0, no. 0, pp.0 - 0, November 2024 中科院一区 (2023), CCF A, JCR Q1*
+
+This paper...
+
+</div>
+</div>
+ 
+<!-- ############################ -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,13 +92,12 @@ My research interest includes neural machine translation and computer vision.
 
 **Zheng Xing**, Weibing Zhao
 
-*IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 11, pp.5709 - 5722, November 2024 中科院一区, CCF A, JCR Q1*
+*IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 11, pp.5709 - 5722, November 2024 中科院一区 (2022), CCF A, JCR Q1*
 
 This paper...
 
 </div>
 </div>
- ( Volume: 36, Issue: 11, November 2024)
 
 
 <!-- ############################ -->
@@ -62,7 +111,7 @@ This paper...
 <!-- -->
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-*IEEE Transactions on Signal Processing (TSP), vol. 72, no. 22, pp.2512 - 2526, February 2024, 中科院一区, JCR Q1*
+*IEEE Transactions on Signal Processing (TSP), vol. 72, no. 22, pp.2512 - 2526, February 2024, 中科院一区 (2022), JCR Q1*
 This paper...
 
 </div>
