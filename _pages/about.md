@@ -42,7 +42,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 ## Journal Papers
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS</div><img src='images/TITS2025.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS</div><img src='images/TITS2025.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trajectory Map-Matching in Urban Road Networks Based on RSS Measure-
@@ -76,7 +76,7 @@ This paper...
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/TIP2024.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/TIP2024.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Segmentation and Completion of Human Motion Sequence via Temporal
@@ -92,7 +92,7 @@ This paper...
 </div>
  
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='images/TKDE2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='images/TKDE2024.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Block-Diagonal Guided DBSCAN Clustering](https://ieeexplore.ieee.org/document/10530414)
@@ -108,7 +108,7 @@ This paper presents a refined DBSCAN algorithm that utilizes block-diagonal simi
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSP</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSP</div><img src='images/TSP2024.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Constructing Indoor Region-Based Radio Map Without Location Labels](https://ieeexplore.ieee.org/abstract/document/10443723/)
@@ -129,7 +129,7 @@ This paper introduces a refined DBSCAN algorithm utilizing block-diagonal simila
 ## Conference Papers
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC</div><img src='images/ICC2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC</div><img src='images/ICC2025.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Constructing Angular Power Maps in Massive MIMO Networks Using Measurements without Location Labels](https://arxiv.org/abs/2502.01280)
@@ -145,7 +145,7 @@ This paper...
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/AAAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/AAAI2024.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unsupervised Action Segmentation via Fast Learning of Semantically Consistent Actoms](https://ojs.aaai.org/index.php/AAAI/article/view/28445)
@@ -161,7 +161,7 @@ This paper...
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP</div><img src='images/Icassp2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP</div><img src='images/Icassp2024.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HMM-Based CSI Embedding for Trajectory Recovery from RSS Measurements of Non-Cooperative Devices](https://sigport.org/documents/hmm-based-csi-embedding-trajectory-recovery-rss-measurements-non-cooperative-devices)
@@ -177,7 +177,7 @@ This paper...
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GlobeCom</div><img src='images/GlobeCom2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GlobeCom</div><img src='images/GlobeCom2023.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Integrated Segmentation and Subspace Clustering for RSS-Based Localization under Blind Calibration](https://ieeexplore.ieee.org/document/10001272/)
@@ -192,7 +192,7 @@ This paper...
 </div>
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCNC</div><img src='images/WCNC2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCNC</div><img src='images/WCNC2022.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spectrum Efficiency Prediction for Real-World 5G Networks Based on Drive Testing Data](https://ieeexplore.ieee.org/document/9771696)
