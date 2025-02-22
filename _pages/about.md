@@ -201,12 +201,20 @@ This paper...
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Hong Kong Medical and Healthcare Device Industries Association Student Research Award, 2024 
+- Outstanding Graduate of the University of Chinese Academy of Sciences, 2020
+- New Industry Scholarship, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, 2020
+- National Scholarship, 2019
+- Merit Student Award, University of Chinese Academy of Sciences, 2019
+- Merit Student Award, University of Chinese Academy of Sciences, 2018
+- Freshman Scholarship, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, 2017
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- <img height="25" src="/images/CUSZ_logo.png" width="25" style="vertical-align: middle;"/> 2021.01 - 2025.7, Doctor of Philosophy, Computer and Information Engineering, School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China
+- <img height="25" src="/images/Beihang_logo.png" width="25" style="vertical-align: middle;"/> 2017.09 - 2020.07, Master of Science, Control Science and Control Engineering, School of Electrical Science and Automation, Beihang University, Beijing, China.
+- <img height="25" src="/images/OUC_logo.png" width="25" style="vertical-align: middle;"/> 2013.09 - 2017.07, Bachelor of Engineering, Electrical Engineering and Automation, School of Electrical Science and Automation, Ocean University of China, Qingdao, China.
+
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
