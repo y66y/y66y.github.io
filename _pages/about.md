@@ -25,7 +25,9 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 
 ## Research Interests
 -- *Unsupervised Learning of Sequential Data*: Exploring the segmentation of human motion sequences through temporal learning of neighboring frames. Additionally, conducting analysis on wireless channel knowledge collected via trajectory data, with a focus on visualizing the data collection trajectories.
+
 -- *Trajectory Estimation*: Developing techniques for recovering data collection trajectories through RSS, CSI, AoA, and ToA measurements, to construct radio maps for enabling indoor localization of mobile users and outdoor localization of vehicles.
+
 -- *Data Clustering*: Investigating the neighbor relationships within data, constructing similarity matrices, and analyzing their block-diagonal properties to enhance clustering algorithms.
 
 
