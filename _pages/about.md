@@ -62,7 +62,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
   </div>
 </div>
 
-
+<br>
 <!-- ############################ -->
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
@@ -83,7 +83,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 </div>
 
 
-
+<br>
 
 <!-- ############################ -->
 <div style="display: flex;">
