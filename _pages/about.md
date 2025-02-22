@@ -58,6 +58,25 @@ This paper...
 </div>
 
 
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <div class="badge">T-ITS</div>
+    <img src="images/TITS2025.png" alt="sym" width="100%">
+  </div>
+  <div style="flex: 3;">
+    <a href="https://arxiv.org/abs/2502.01280">
+      [Trajectory Map-Matching in Urban Road Networks Based on RSS Measurements]
+    </a>
+    <br>
+    **Zheng Xing**, Weibing Zhao
+    <br>
+    *IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 0, no. 0, pp. 0 - 0, January 2025, 中科院一区 (2023), JCR Q1*
+    <br><br>
+    This paper...
+  </div>
+</div>
+
+
 <!-- ############################ -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoT-J</div><img src='images/IOTJ2024.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
