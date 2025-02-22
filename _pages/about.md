@@ -33,6 +33,7 @@ My research interest includes neural machine translation and computer vision.
 
 # 📝 Publications 
 
+## Journal Papers
 
 <!-- ############################ -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
@@ -112,6 +113,86 @@ This paper...
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 *IEEE Transactions on Signal Processing (TSP), vol. 72, no. 22, pp.2512 - 2526, February 2024, 中科院一区 (2022), JCR Q1*
+This paper...
+
+</div>
+</div>
+
+## Conference Papers
+
+<!-- ############################ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Constructing Angular Power Maps in Massive MIMO Networks Using Measurements without Location Labels](https://arxiv.org/abs/2502.01280)
+
+**Zheng Xing**, Junting Chen
+
+*IEEE International Conference on Communications (ICC), 2025.*
+
+This paper...
+
+</div>
+</div>
+
+
+<!-- ############################ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unsupervised Action Segmentation via Fast Learning of Semantically Consistent Actoms](https://ojs.aaai.org/index.php/AAAI/article/view/28445)
+
+**Zheng Xing**, Weibing Zhao
+
+*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), vol. 38, no. 6, pp. 6270–6278, 2024.*
+
+This paper...
+
+</div>
+</div>
+
+
+<!-- ############################ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HMM-Based CSI Embedding for Trajectory Recovery from RSS Measurements of Non-Cooperative Devices](https://sigport.org/documents/hmm-based-csi-embedding-trajectory-recovery-rss-measurements-non-cooperative-devices)
+
+**Zheng Xing**, Junting Chen
+
+*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 7060–7064, 2024.*
+
+This paper...
+
+</div>
+</div>
+
+
+<!-- ############################ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GlobeCom</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Integrated Segmentation and Subspace Clustering for RSS-Based Localization under Blind Calibration](https://ieeexplore.ieee.org/document/10001272/)
+
+**Zheng Xing**, Weibing Zhao
+
+*IEEE Global Communications Conference (GlobeCom), pp. 5360–5365, 2022.*
+
+This paper...
+
+</div>
+</div>
+
+<!-- ############################ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCNC</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spectrum Efficiency Prediction for Real-World 5G Networks Based on Drive Testing Data](https://ieeexplore.ieee.org/document/9771696)
+
+**Zheng Xing**, Weibing Zhao
+
+*IEEE Wireless Communications and Networking Conference (WCNC), pp. 2136–2141, 2022.*
+
 This paper...
 
 </div>
