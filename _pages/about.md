@@ -19,10 +19,15 @@ redirect_from:
 
 Welcome to my page! I am **Zheng (Will) Xing**, currently pursuing a PhD at the **School of Science and Engineering**, **The Chinese University of Hong Kong, Shenzhen**. I am fortunate to be affiliated with the [**Laboratory for Wireless Communication and Intelligent Signal Processing**](http://chenjunting.org/), under the guidance of **Prof. [Junting Chen (陈俊挺)](http://chenjunting.org/)**.
 
-I earned my **MPhil** degree from the **School of Electrical Science and Automation**, **Beihang University**, Beijing, China, and my **Bachelor's** degree from the **School of Electrical Science and Automation**, **Ocean University of China**, Qingdao, China.
+
+<!--I earned my **MPhil** degree from the **School of Electrical Science and Automation**, **Beihang University**, Beijing, China, and my **Bachelor's** degree from the **School of Electrical Science and Automation**, **Ocean University of China**, Qingdao, China.-->
+
+## Research Interests
+-- AAA
+-- AAA
+-- AAA
 
 
-My research interest includes neural machine translation and computer vision. 
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=TjqNW9QAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=TjqNW9QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -205,6 +210,13 @@ This paper...
 2024.
 - Zheng Xing, Junting Chen, ”An AP-Based Fingerprint Database Positioning Method and System”, 2023.
 
+## Projects
+- Huawei Wireless Spectrum Prediction, Student Leader
+- Air-to-Air Missile Seeker Measurement, Student Leader
+
+
+
+
 
 # 🎖 Honors and Awards
 - *Excellent Graduate of the Beihang University*, 2020
@@ -227,19 +239,22 @@ This paper...
 - <img height="25" src="/images/OUC_logo.png" width="25" style="vertical-align: middle;"/> 2013.09 - 2017.07, Bachelor of Engineering, Electrical Engineering and Automation, School of Electrical Science and Automation, Ocean University of China, Qingdao, China.
 
 
-
-
-
 # Experience
 - <img height="25" src="/images/Mal_logo.png" width="25" style="vertical-align: middle;"/> 2018.09 - 2019.01, University of Malaya, Kuala Lumpur, Malaysia.
 - <img height="25" src="/images/dalian_logo.png" width="25" style="vertical-align: middle;"/> 2014.09 - 2016.04, Dalian University of Technology, Dalian, China 
 
 
 
-<--!# 💬 Invited Talks
+<!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
   
 # 💻 Internships
 - *2017.09 - 2020.01*, [China Aerospace Science and Technology](https://www.spacechina.com/n25/index.html), Beijing, China.
+
+
+# Teaching Experience
+- Calculus I (MAT1001), The Chinese University of University of Hong Kong, Shenzhen, Course Leader, Sep. 2020 - Apr. 2023
+- Digital Signal Processing (EE4015), The Chinese University of University of Hong Kong, Shenzhen, Course Leader, Sep. 2023 - Dec. 2023
+- Digital Circuits and Systems (ELEG2201), The Chinese University of University of Hong Kong, Shenzhen, Course Leader, Jan. 2024 - Apr. 2024
