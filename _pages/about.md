@@ -42,22 +42,6 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 ## Journal Papers
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS</div><img src='images/TITS2025.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Trajectory Map-Matching in Urban Road Networks Based on RSS Measure-
-ments](https://arxiv.org/abs/2502.01280)
-
-**Zheng Xing**, Weibing Zhao
-
-*IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 0, no. 0, pp.0 - 0, January 2025 中科院一区 (2023), JCR Q1*
-
-This paper...
-
-</div>
-</div>
-
-
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
     <div class="badge">T-ITS</div>
@@ -65,16 +49,14 @@ This paper...
   </div>
   <div style="flex: 3;">
     <a href="https://arxiv.org/abs/2502.01280">
-      [Trajectory Map-Matching in Urban Road Networks Based on RSS Measurements]
+      Trajectory Map-Matching in Urban Road Networks Based on RSS Measurements
     </a>
-    
-    **Zheng Xing**, Weibing Zhao
-
-*IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 0, no. 0, pp.0 - 0, January 2025 中科院一区 (2023), JCR Q1*
-
-This paper introduces a method for vehicle trajectory reconstruction (VTR) using received signal strength (RSS) measurements, bypassing the need for specialized equipment. By leveraging a hidden Markov model-based technique and spatial-temporal correlations, the approach overcomes RSS data's inherent noise, outperforming state-of-the-art methods on real-world data.
-
-
+     <br>
+    <strong>Zheng Xing</strong>, Weibing Zhao
+    <br>
+    <em>IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 0, no. 0, pp. 0 - 0, January 2025, 中科院一区 (2023), JCR Q1</em>
+    <br><br>
+   This paper introduces a method for vehicle trajectory reconstruction (VTR) using received signal strength (RSS) measurements, bypassing the need for specialized equipment. By leveraging a hidden Markov model-based technique and spatial-temporal correlations, the approach overcomes RSS data's inherent noise, outperforming state-of-the-art methods on real-world data.
   </div>
 </div>
 
