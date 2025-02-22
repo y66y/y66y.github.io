@@ -18,15 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a PhD at the **School of Science and Engineering**, **The Chinese University of Hong Kong, Shenzhen**. I am fortunate to be affiliated with the [**Laboratory for Wireless Communication and Intelligent Signal Processing**](http://chenjunting.org/), under the guidance of **Prof. [Junting Chen (陈俊挺)](http://chenjunting.org/)**.
+Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a PhD at the **School of Science and Engineering**, **The Chinese University of Hong Kong, Shenzhen**. I am fortunate to be affiliated with the [**Laboratory for Wireless Communication and Intelligent Signal Processing**](http://chenjunting.org/), under the guidance of **Prof. [Junting Chen (陈俊挺)]([http://chenjunting.org/](https://scholar.google.com.hk/citations?user=hsPzukQAAAAJ&hl=en&oi=ao))**.
 
 
 <!--I earned my **MPhil** degree from the **School of Electrical Science and Automation**, **Beihang University**, Beijing, China, and my **Bachelor's** degree from the **School of Electrical Science and Automation**, **Ocean University of China**, Qingdao, China.-->
 
 ## Research Interests
--- AAA
--- AAA
--- AAA
+-- *Unsupervised Learning of Sequential Data*: Exploring the segmentation of human motion sequences through temporal learning of neighboring frames. Additionally, conducting analysis on wireless channel knowledge collected via trajectory data, with a focus on visualizing the data collection trajectories.
+-- *Trajectory Estimation*: Developing techniques for recovering data collection trajectories through RSS, CSI, AoA, and ToA measurements, to construct radio maps for enabling indoor localization of mobile users and outdoor localization of vehicles.
+-- *Data Clustering*: Investigating the neighbor relationships within data, constructing similarity matrices, and analyzing their block-diagonal properties to enhance clustering algorithms.
 
 
 
