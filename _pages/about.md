@@ -113,6 +113,8 @@ This paper...
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 *IEEE Transactions on Signal Processing (TSP), vol. 72, no. 22, pp.2512 - 2526, February 2024, 中科院一区 (2022), JCR Q1*
+
+
 This paper...
 
 </div>
@@ -198,16 +200,26 @@ This paper...
 </div>
 </div>
 
+## Patents
+- Zheng Xing, Junting Chen, ”An RSS-Based Trajectory Recovery and Radio Map Construction Method”,
+2024.
+- Zheng Xing, Junting Chen, ”An AP-Based Fingerprint Database Positioning Method and System”, 2023.
 
 
 # 🎖 Honors and Awards
-- Hong Kong Medical and Healthcare Device Industries Association Student Research Award, 2024 
-- Outstanding Graduate of the University of Chinese Academy of Sciences, 2020
-- New Industry Scholarship, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, 2020
-- National Scholarship, 2019
-- Merit Student Award, University of Chinese Academy of Sciences, 2019
-- Merit Student Award, University of Chinese Academy of Sciences, 2018
-- Freshman Scholarship, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, 2017
+- *Excellent Graduate of the Beihang University*, 2020
+- Excellent League Member of the Beihang University, 2018
+- First-Class Scholarship of the Beihang University, 2017-2020
+- *Excellent Undergraduate of the Ocean University of China*, 2017
+- *Excellent Undergraduate of Shandong Province*, 2017
+- Silver Award in National Electronic Design Competition 2016
+- Excellent Student of the Ocean University of China, 2016
+- *National Scholarship*, 2016
+- *National Scholarship*, 2015
+- Excellent Student of the Ocean University of China, 2014
+- First-Class Scholarship, 2013-2017
+
+
 
 # 📖 Educations
 - <img height="25" src="/images/CUSZ_logo.png" width="25" style="vertical-align: middle;"/> 2021.01 - 2025.7, Doctor of Philosophy, Computer and Information Engineering, School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China
@@ -216,9 +228,18 @@ This paper...
 
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+
+# Experience
+- <img height="25" src="/images/Mal_logo.png" width="25" style="vertical-align: middle;"/> 2018.09 - 2019.01, University of Malaya, Kuala Lumpur, Malaysia.
+- <img height="25" src="/images/dalian_logo.png" width="25" style="vertical-align: middle;"/> 2014.09 - 2016.04, Dalian University of Technology, Dalian, China 
+
+
+
+<--!# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
+
+  
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2017.09 - 2020.01*, [China Aerospace Science and Technology](https://www.spacechina.com/n25/index.html), Beijing, China.
