@@ -207,9 +207,9 @@ This paper...
 </div>
 
 ## Patents
-- Zheng Xing, Junting Chen, ”An RSS-Based Trajectory Recovery and Radio Map Construction Method”,
-2024.
-- Zheng Xing, Junting Chen, ”An AP-Based Fingerprint Database Positioning Method and System”, 2023.
+- 邢正,陈俊挺,一种基于接收信号强度的轨迹恢复及无线电地图构建方法,	中国, 1775494.6	1,	2024年9月27日,		CN 117768843 B
+- 邢正,陈俊挺, 一种室内定位方法及子空间特征提取方法,	中国, 1480461.4	2,	2023年08月18,		CN 115988634 B
+
 
 ## Projects
 - Huawei Wireless Spectrum Prediction, Student Leader
