@@ -104,7 +104,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
   </div>
 </div>
 
- 
+ <br>
 <!-- ############################ -->
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
@@ -123,7 +123,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
     This paper introduces a refined DBSCAN algorithm utilizing block-diagonal similarity graphs, addressing challenges in high-dimensional data and parameter sensitivity. It employs a self-representation model, gradient descent, and a traversal algorithm to generate enhanced cluster orderings, achieving superior clustering performance on real-world datasets.
   </div>
 </div>
-
+<br>
 <!-- ############################ -->
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
@@ -142,9 +142,10 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
     This paper proposes an unsupervised method for constructing region-based radio maps without location labels, using RSS measurements. The method integrates subspace clustering with sequential priors, overcoming challenges posed by noisy and multipath-affected data. It achieves superior localization performance, outperforming supervised techniques like KNN, SVM, and DNN.
   </div>
 </div>
-
+<br>
+<br>
 ## Conference Papers
-
+<br>
 <!-- ############################ -->
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
@@ -165,7 +166,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 </div>
 
 
-
+<br>
 <!-- ############################ -->
 
 <div style="display: flex;">
@@ -186,7 +187,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
   </div>
 </div>
 
-
+<br>
 <!-- ############################ -->
 
 <div style="display: flex;">
@@ -207,7 +208,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
   </div>
 </div>
 
-
+<br>
 <!-- ############################ -->
 
 <div style="display: flex;">
@@ -227,7 +228,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
     This paper develops an integrated segmentation and subspace clustering method for RSS-based indoor localization with blind calibration. It utilizes sequential data and signal subspace structure to classify regions. The approach reduces region localization error by 50%, outperforming traditional and supervised methods, demonstrating superior performance in real-world scenarios.
   </div>
 </div>
-
+<br>
 <!-- ############################ -->
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
@@ -246,7 +247,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
     This paper develops a model-assisted, data-driven approach for predicting spectrum efficiency (SE) in 5G networks, utilizing RSRP from drive test data. A joint interference and SE prediction network, along with a classification-assisted model, improves accuracy by approximately 2%, outperforming purely data-driven methods.
   </div>
 </div>
-
+<br><br>
 
 ## Patents
 - 邢正,陈俊挺,一种基于接收信号强度的轨迹恢复及无线电地图构建方法,	中国, 1775494.6	1,	2024年9月27日,		CN 117768843 B
