@@ -72,7 +72,7 @@ This paper...
 
 *IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 0, no. 0, pp.0 - 0, January 2025 中科院一区 (2023), JCR Q1*
 
-This paper...
+This paper introduces a method for vehicle trajectory reconstruction (VTR) using received signal strength (RSS) measurements, bypassing the need for specialized equipment. By leveraging a hidden Markov model-based technique and spatial-temporal correlations, the approach overcomes RSS data's inherent noise, outperforming state-of-the-art methods on real-world data.
 
 
   </div>
@@ -89,7 +89,7 @@ This paper...
 
 *IEEE Internet of Things Journal (IoT-J), vol. 0, no. 0, pp.0 - 0, November 2024 中科院一区 (2023), JCR Q1*
 
-This paper...
+This paper presents a calibration-free indoor positioning method using received signal strength (RSS) measurements, eliminating the need for location labels or IMUs. By applying regional channel tracing (RCT) and subspace clustering, it accurately estimates locations and path loss models, achieving performance comparable to IMU-based methods in real-world environments.
 
 </div>
 </div>
@@ -107,7 +107,7 @@ Learning of Subspace Variety Model](https://pubmed.ncbi.nlm.nih.gov/39178090/)
 
 *IEEE Transactions on Image Processing (TIP), vol. 0, no. 0, pp.0 - 0, November 2024 中科院一区 (2023), CCF A, JCR Q1*
 
-This paper...
+This paper introduces the Temporal Learning of Subspace Variety Model (TL-SVM) for human motion sequence segmentation and completion. It enhances segmentation by incorporating temporal priors, addressing missing entries through a spatio-temporal assignment consistency constraint, and completing sequences via subspace clustering. Extensive experiments demonstrate its superior performance.
 
 </div>
 </div>
@@ -122,7 +122,7 @@ This paper...
 
 *IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 11, pp.5709 - 5722, November 2024 中科院一区 (2022), CCF A, JCR Q1*
 
-This paper presents a refined DBSCAN algorithm that utilizes block-diagonal similarity graphs to improve clustering, addressing challenges in high-dimensional datasets, sensitivity to parameters, and inconsistent outcomes.
+This paper introduces a refined DBSCAN algorithm utilizing block-diagonal similarity graphs, addressing challenges in high-dimensional data and parameter sensitivity. It employs a self-representation model, gradient descent, and a traversal algorithm to generate enhanced cluster orderings, achieving superior clustering performance on real-world datasets.
 
 </div>
 </div>
@@ -142,7 +142,7 @@ This paper presents a refined DBSCAN algorithm that utilizes block-diagonal simi
 *IEEE Transactions on Signal Processing (TSP), vol. 72, no. 22, pp.2512 - 2526, February 2024, 中科院一区 (2022), JCR Q1*
 
 
-This paper introduces a refined DBSCAN algorithm utilizing block-diagonal similarity graphs, addressing challenges in high-dimensional data and parameter sensitivity. It employs a self-representation model, gradient descent, and a traversal algorithm to generate enhanced cluster orderings, achieving superior clustering performance on real-world datasets.
+This paper proposes an unsupervised method for constructing region-based radio maps without location labels, using RSS measurements. The method integrates subspace clustering with sequential priors, overcoming challenges posed by noisy and multipath-affected data. It achieves superior localization performance, outperforming supervised techniques like KNN, SVM, and DNN.
 
 </div>
 </div>
@@ -159,7 +159,7 @@ This paper introduces a refined DBSCAN algorithm utilizing block-diagonal simila
 
 *IEEE International Conference on Communications (ICC), 2025.*
 
-This paper...
+This paper proposes an unsupervised method for constructing angular power maps in massive MIMO networks using CSI data without location labels. By leveraging a hidden Markov model to estimate mobile trajectories, the approach enables accurate radio map construction and improves CSI prediction performance by over 20% compared to traditional methods.
 
 </div>
 </div>
@@ -175,7 +175,7 @@ This paper...
 
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), vol. 38, no. 6, pp. 6270–6278, 2024.*
 
-This paper...
+This paper presents a fast, unsupervised action segmentation framework that divides videos into semantically consistent actoms. Using a subspace-based similarity measure, it efficiently splits and merges actoms, ensuring coherent segmentation. The method outperforms existing approaches in both accuracy and learning time across four benchmark datasets.
 
 </div>
 </div>
@@ -191,7 +191,7 @@ This paper...
 
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 7060–7064, 2024.*
 
-This paper...
+This paper presents an HMM-based CSI embedding method for trajectory recovery in outdoor vehicular communication scenarios. By mapping CSI measurements to vehicle locations, it accurately reconstructs user trajectories with a 23-meter localization error. The method provides a promising approach for efficient radio map construction and localization.
 
 </div>
 </div>
@@ -203,11 +203,11 @@ This paper...
 
 [Integrated Segmentation and Subspace Clustering for RSS-Based Localization under Blind Calibration](https://ieeexplore.ieee.org/document/10001272/)
 
-**Zheng Xing**, Weibing Zhao
+**Zheng Xing**, Junting Chen
 
 *IEEE Global Communications Conference (GlobeCom), pp. 5360–5365, 2022.*
 
-This paper...
+This paper develops an integrated segmentation and subspace clustering method for RSS-based indoor localization with blind calibration. It utilizes sequential data and signal subspace structure to classify regions. The approach reduces region localization error by 50%, outperforming traditional and supervised methods, demonstrating superior performance in real-world scenarios.
 
 </div>
 </div>
@@ -222,7 +222,7 @@ This paper...
 
 *IEEE Wireless Communications and Networking Conference (WCNC), pp. 2136–2141, 2022.*
 
-This paper...
+This paper develops a model-assisted, data-driven approach for predicting spectrum efficiency (SE) in 5G networks, utilizing RSRP from drive test data. A joint interference and SE prediction network, along with a classification-assisted model, improves accuracy by approximately 2%, outperforming purely data-driven methods.
 
 </div>
 </div>
