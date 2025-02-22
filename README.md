@@ -1,4 +1,4 @@
 - 😍 Welcome to my page!
-- 🌐 This is my personal website [[https://olivercxu.github.io/](https://olivercxu.github.io/](https://www.zhengxing.tech/)).
+- 🌐 This is my personal website [https://www.zhengxing.tech/](https://www.zhengxing.tech/).
 - 📅 Last major update in Feb 2025. 
 - 📧 chaoxu [at] link [dot] cuhk [dot] edu [dot] cn
