@@ -256,16 +256,26 @@ This paper...
 
 # Academic Service
 
-Reviewer for Journals:
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-ACM Transactions on Graphics (TOG)
-IEEE Transactions on Visualization and Computer Graphics (TVCG)
-IEEE Transactions on Image Processing (TIP)
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-IEEE Transactions on Cybernetics (TCYB)
-IEEE Transactions on Circuits Systems for Video Technology (TCSVT)
-IEEE Transactions on Multimedia (TMM)
+## Reviewer for Journals:
+- IEEE Journal on Selected Areas in Communications (JSAC)
+- IEEE Transactions on Signal Processing (TSP)
+- IEEE Transactions on Wireless Communications (TWC)
+- IEEE Transactions on Mobile Computing (TMC)
+- IEEE Transactions on Communications (TCOM)
+- IEEE Internet of Things Journal (IOTJ)
 
+
+## Reviewer for Conferences:
+
+- IEEE International Conference on Communications (ICC)
+- IEEE Global Communications Conference (Globecom)
+- International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+- International Conference on Learning Representations (ICLR)
+- International Conference on Machine Learning (ICML)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- IEEE/CIC International Conference on Communications in China (ICCC)
+- IEEE International Conference on Machine Learning in Communications and Networking (ICMLCN)
+- International Joint Conference on Neural Networks (IJCNN)
 
 
 # Teaching Experience
