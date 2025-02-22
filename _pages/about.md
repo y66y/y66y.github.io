@@ -57,31 +57,36 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
     <strong>Zheng Xing</strong>, Weibing Zhao
     <br>
     <em>IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 0, no. 0, pp. 0 - 0, January 2025, 中科院一区 (2023), JCR Q1</em>
-    <br><br>
+    <br>
    This paper introduces a method for vehicle trajectory reconstruction (VTR) using received signal strength (RSS) measurements, bypassing the need for specialized equipment. By leveraging a hidden Markov model-based technique and spatial-temporal correlations, the approach overcomes RSS data's inherent noise, outperforming state-of-the-art methods on real-world data.
   </div>
 </div>
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoT-J</div><img src='images/IOTJ2024.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Calibration-Free Indoor Positioning via Regional Channel Tracing](https://ieeexplore.ieee.org/document/10735384)
-
-**Zheng Xing**, Weibing Zhao
-
-*IEEE Internet of Things Journal (IoT-J), vol. 0, no. 0, pp.0 - 0, November 2024 中科院一区 (2023), JCR Q1*
-
-This paper presents a calibration-free indoor positioning method using received signal strength (RSS) measurements, eliminating the need for location labels or IMUs. By applying regional channel tracing (RCT) and subspace clustering, it accurately estimates locations and path loss models, achieving performance comparable to IMU-based methods in real-world environments.
-
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <div class="badge">IoT-J</div>
+    <img src="images/IOTJ2024.png" alt="sym" width="60%">
+  </div>
+  <div style="flex: 3;">
+    <a href="https://ieeexplore.ieee.org/document/10735384">
+      Calibration-Free Indoor Positioning via Regional Channel Tracing
+    </a>
+    <br>
+    <strong>Zheng Xing</strong>, Weibing Zhao
+    <br>
+    <em>IEEE Internet of Things Journal (IoT-J), vol. 0, no. 0, pp. 0 - 0, November 2024, 中科院一区 (2023), JCR Q1</em>
+    <br><br>
+    This paper presents a calibration-free indoor positioning method using received signal strength (RSS) measurements, eliminating the need for location labels or IMUs. By applying regional channel tracing (RCT) and subspace clustering, it accurately estimates locations and path loss models, achieving performance comparable to IMU-based methods in real-world environments.
+  </div>
 </div>
-</div>
+
 
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/TIP2024.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/TIP2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Segmentation and Completion of Human Motion Sequence via Temporal
@@ -97,7 +102,7 @@ This paper introduces the Temporal Learning of Subspace Variety Model (TL-SVM) f
 </div>
  
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='images/TKDE2024.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='images/TKDE2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Block-Diagonal Guided DBSCAN Clustering](https://ieeexplore.ieee.org/document/10530414)
@@ -113,7 +118,7 @@ This paper introduces a refined DBSCAN algorithm utilizing block-diagonal simila
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSP</div><img src='images/TSP2024.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSP</div><img src='images/TSP2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Constructing Indoor Region-Based Radio Map Without Location Labels](https://ieeexplore.ieee.org/abstract/document/10443723/)
@@ -134,7 +139,7 @@ This paper proposes an unsupervised method for constructing region-based radio m
 ## Conference Papers
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC</div><img src='images/ICC2025.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC</div><img src='images/ICC2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Constructing Angular Power Maps in Massive MIMO Networks Using Measurements without Location Labels](https://arxiv.org/abs/2502.01280)
@@ -150,7 +155,7 @@ This paper proposes an unsupervised method for constructing angular power maps i
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/AAAI2024.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/AAAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unsupervised Action Segmentation via Fast Learning of Semantically Consistent Actoms](https://ojs.aaai.org/index.php/AAAI/article/view/28445)
@@ -166,7 +171,7 @@ This paper presents a fast, unsupervised action segmentation framework that divi
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP</div><img src='images/Icassp2024.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP</div><img src='images/Icassp2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HMM-Based CSI Embedding for Trajectory Recovery from RSS Measurements of Non-Cooperative Devices](https://sigport.org/documents/hmm-based-csi-embedding-trajectory-recovery-rss-measurements-non-cooperative-devices)
@@ -182,7 +187,7 @@ This paper presents an HMM-based CSI embedding method for trajectory recovery in
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GlobeCom</div><img src='images/GlobeCom2023.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GlobeCom</div><img src='images/GlobeCom2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Integrated Segmentation and Subspace Clustering for RSS-Based Localization under Blind Calibration](https://ieeexplore.ieee.org/document/10001272/)
@@ -197,7 +202,7 @@ This paper develops an integrated segmentation and subspace clustering method fo
 </div>
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCNC</div><img src='images/WCNC2022.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCNC</div><img src='images/WCNC2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spectrum Efficiency Prediction for Real-World 5G Networks Based on Drive Testing Data](https://ieeexplore.ieee.org/document/9771696)
