@@ -42,7 +42,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 ## Journal Papers
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS</div><img src='images/TITS2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS</div><img src='images/TITS2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trajectory Map-Matching in Urban Road Networks Based on RSS Measure-
@@ -59,7 +59,7 @@ This paper...
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoT-J</div><img src='images/IOTJ2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoT-J</div><img src='images/IOTJ2024.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Calibration-Free Indoor Positioning via Regional Channel Tracing](https://ieeexplore.ieee.org/document/10735384)
@@ -76,7 +76,7 @@ This paper...
 
 
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/TIP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/TIP2024.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Segmentation and Completion of Human Motion Sequence via Temporal
@@ -92,7 +92,7 @@ This paper...
 </div>
  
 <!-- ############################ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='images/TKDE2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='images/TKDE2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Block-Diagonal Guided DBSCAN Clustering](https://ieeexplore.ieee.org/document/10530414)
