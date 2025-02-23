@@ -349,6 +349,10 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 
 
 # Teaching Experience
-- Calculus I (MAT1001), The Chinese University of University of Hong Kong, Shenzhen, Course Leader, Sep. 2020 - Apr. 2023
-- Digital Signal Processing (EE4015), The Chinese University of University of Hong Kong, Shenzhen, Course Leader, Sep. 2023 - Dec. 2023
-- Digital Circuits and Systems (ELEG2201), The Chinese University of University of Hong Kong, Shenzhen, Course Leader, Jan. 2024 - Apr. 2024
+- MAT1001:Calculus I
+- MAT2002:Ordinary Differential Equations
+- ECE2810:Digital Systems Design Laboratory
+- EIE3510:Digital Signal Processing 
+- EIE4512:Digital Image Processing 
+- EIE4005:Introduction to Coding and Cryptography 
+- EIE4006:Performance Evaluation of Communication Networks 
