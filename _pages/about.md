@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a PhD at the **School of Science and Engineering**, **The Chinese University of Hong Kong, Shenzhen**. I am fortunate to be affiliated with the [**Laboratory for Wireless Communication and Intelligent Signal Processing**](http://chenjunting.org/), under the guidance of **Prof. [Junting Chen (陈俊挺)](https://scholar.google.com.hk/citations?user=hsPzukQAAAAJ&hl=en&oi=ao)**.
+Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a PhD at the **School of Science and Engineering**, **The Chinese University of Hong Kong, Shenzhen**. I am fortunate to be affiliated with the [**Laboratory for Wireless Communication and Intelligent Signal Processing (WiseLab)**](http://chenjunting.org/), under the guidance of **Prof. [Junting Chen (陈俊挺)](https://scholar.google.com.hk/citations?user=hsPzukQAAAAJ&hl=en&oi=ao)**.
 
 
 <!--I earned my **MPhil** degree from the **School of Electrical Science and Automation**, **Beihang University**, Beijing, China, and my **Bachelor's** degree from the **School of Electrical Science and Automation**, **Ocean University of China**, Qingdao, China.-->
