@@ -41,9 +41,18 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 
 
 # 📖 Educations
-- <img height="25" src="/images/CUSZ_logo.png" width="25" style="vertical-align: middle;"/> 2020.09 - 2025.7, Doctor of Philosophy, Computer and Information Engineering, School of Science and Engineering, [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), China
-- <img height="25" src="/images/Beihang_logo.png" width="25" style="vertical-align: middle;"/> 2017.09 - 2020.01, Master of Science, Control Science and Control Engineering, School of Electrical Science and Automation, [Beihang University](https://ev.buaa.edu.cn/), Beijing, China.
-- <img height="25" src="/images/OUC_logo.png" width="25" style="vertical-align: middle;"/> 2013.09 - 2017.07, Bachelor of Engineering, Electrical Engineering and Automation, School of Electrical Science and Automation, [Ocean University of China](http://eweb.ouc.edu.cn/), Qingdao, China.
+- ![CUSZ Logo](images/CUSZ_logo.png){:height="25" width="25" style="vertical-align: middle;"}  **2020.09 - 2025.07**  
+  Doctor of Philosophy, Computer and Information Engineering, School of Science and Engineering, [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), China.  
+  Supervised by Assistant Professor **Junting Chen** (陈俊挺), Associate Professor **Jie Xu** (许杰), Professor **Shuguang Cui** (崔曙光).
+
+- ![Beihang Logo](images/Beihang_logo.png){:height="25" width="25" style="vertical-align: middle;"}  **2017.09 - 2020.01**  
+  Master of Science, Control Science and Control Engineering, School of Electrical Science and Automation, [Beihang University](https://ev.buaa.edu.cn/), Beijing, China.  
+  Supervised by Associate Professor **Zhiyue Xu** (徐志跃), Professor **Yabin Liu** (刘亚斌).
+
+- ![OUC Logo](images/OUC_logo.png){:height="25" width="25" style="vertical-align: middle;"}  **2013.09 - 2017.07**  
+  Bachelor of Engineering, Electrical Engineering and Automation, School of Electrical Science and Automation, [Ocean University of China](http://eweb.ouc.edu.cn/), Qingdao, China.  
+  Supervised by Professor **Ling Zhang** (张玲), Professor **Ming Li** (黎明).
+
 
 
 ### Experience
