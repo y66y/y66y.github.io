@@ -39,6 +39,18 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 - *2025.01*: &nbsp;🎉🎉 One paper about vehicle trajectory map matching is accepted by T-ITS.
 - *2025.01*: &nbsp;🎉🎉 One paper about outdoor radio map construction is accepted by ICC.
 
+
+# 📖 Educations
+- <img height="25" src="/images/CUSZ_logo.png" width="25" style="vertical-align: middle;"/> 2020.09 - 2025.7, Doctor of Philosophy, Computer and Information Engineering, School of Science and Engineering, [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), China
+- <img height="25" src="/images/Beihang_logo.png" width="25" style="vertical-align: middle;"/> 2017.09 - 2020.01, Master of Science, Control Science and Control Engineering, School of Electrical Science and Automation, [Beihang University](https://ev.buaa.edu.cn/), Beijing, China.
+- <img height="25" src="/images/OUC_logo.png" width="25" style="vertical-align: middle;"/> 2013.09 - 2017.07, Bachelor of Engineering, Electrical Engineering and Automation, School of Electrical Science and Automation, [Ocean University of China](http://eweb.ouc.edu.cn/), Qingdao, China.
+
+
+### Experience
+- <img height="25" src="/images/Mal_logo.png" width="25" style="vertical-align: middle;"/> 2018.09 - 2019.01, [Universiti Malaya](https://www.um.edu.my/), Kuala Lumpur, Malaysia.
+- <img height="25" src="/images/dalian_logo.png" width="25" style="vertical-align: middle;"/> 2014.09 - 2016.04, [Dalian University of Technology](https://en.dlut.edu.cn/), Dalian, China
+
+  
 # 📝 Publications 
 
 ## Journal Papers
@@ -277,15 +289,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 
 
 
-# 📖 Educations
-- <img height="25" src="/images/CUSZ_logo.png" width="25" style="vertical-align: middle;"/> 2021.01 - 2025.7, Doctor of Philosophy, Computer and Information Engineering, School of Science and Engineering, [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), China
-- <img height="25" src="/images/Beihang_logo.png" width="25" style="vertical-align: middle;"/> 2017.09 - 2020.07, Master of Science, Control Science and Control Engineering, School of Electrical Science and Automation, [Beihang University](https://ev.buaa.edu.cn/), Beijing, China.
-- <img height="25" src="/images/OUC_logo.png" width="25" style="vertical-align: middle;"/> 2013.09 - 2017.07, Bachelor of Engineering, Electrical Engineering and Automation, School of Electrical Science and Automation, [Ocean University of China](http://eweb.ouc.edu.cn/), Qingdao, China.
 
-
-### Experience
-- <img height="25" src="/images/Mal_logo.png" width="25" style="vertical-align: middle;"/> 2018.09 - 2019.01, [Universiti Malaya](https://www.um.edu.my/), Kuala Lumpur, Malaysia.
-- <img height="25" src="/images/dalian_logo.png" width="25" style="vertical-align: middle;"/> 2014.09 - 2016.04, [Dalian University of Technology](https://en.dlut.edu.cn/), Dalian, China 
 
 
 
