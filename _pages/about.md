@@ -310,7 +310,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Communications (TCOM)
 - IEEE Internet of Things Journal (IOTJ)
-
+- The Journal of Supercomputing
 
 ### Reviewer for Conferences:
 
