@@ -24,11 +24,17 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 <!--I earned my **MPhil** degree from the **School of Electrical Science and Automation**, **Beihang University**, Beijing, China, and my **Bachelor's** degree from the **School of Electrical Science and Automation**, **Ocean University of China**, Qingdao, China.-->
 
 ## Research Interests
--- *Unsupervised Learning of Sequential Data*: Exploring the segmentation of human motion sequences through temporal learning of neighboring frames. Additionally, conducting analysis on wireless channel knowledge collected via trajectory data, with a focus on visualizing the data collection trajectories.
+- **Sequential Analysis in an Unsupervised Manner**:  
+  Exploring the segmentation of human motion sequences through temporal learning of neighboring frames. Additionally, analyzing wireless channel knowledge collected via trajectory data, with a focus on visualizing data collection trajectories.
 
--- *Trajectory Estimation*: Developing techniques for recovering data collection trajectories through RSS, CSI, AoA, and ToA measurements, to construct radio maps for enabling indoor localization of mobile users and outdoor localization of vehicles.
+- **Wireless Indoor Localization**:  
+  Developing techniques for recovering data collection trajectories through RSS, CSI, AoA, and ToA measurements, with the goal of constructing radio maps to enable indoor localization of mobile users.
 
--- *Data Clustering*: Investigating the neighbor relationships within data, constructing similarity matrices, and analyzing their block-diagonal properties to enhance clustering algorithms.
+- **Wireless Vehicle Trajectory Tracking**:  
+  Developing techniques for recovering data collection trajectories through CSI measurements from 5G MIMO base stations, in order to recover vehicle trajectories and construct radio maps for real-time vehicle tracking.
+
+- **High-Dimensional Data Clustering**:  
+  Investigating the neighbor relationships within data, constructing similarity matrices, and analyzing their block-diagonal properties to enhance clustering algorithms.
 
 
 
@@ -36,8 +42,8 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 One paper about vehicle trajectory map matching is accepted by T-ITS.
-- *2025.01*: &nbsp;🎉🎉 One paper about outdoor radio map construction is accepted by ICC.
+- *2025.01*: &nbsp;🎉🎉 One paper about vehicle trajectory map matching is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS).
+- *2025.01*: &nbsp;🎉🎉 One paper about outdoor radio map construction is accepted by IEEE International Conference on Communications (ICC).
 
 
 # 📖 Educations
