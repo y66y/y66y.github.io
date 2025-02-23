@@ -60,7 +60,7 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 
 ### Experience
 - <img height="25" src="/images/Mal_logo.png" width="25" style="vertical-align: middle;"/> 2018.09 - 2019.01, [Universiti Malaya](https://www.um.edu.my/), Kuala Lumpur, Malaysia.
-- <img height="25" src="/images/dalian_logo.png" width="25" style="vertical-align: middle;"/> 2014.09 - 2016.04, [Dalian University of Technology](https://en.dlut.edu.cn/), Dalian, China
+- <img height="25" src="/images/dalian_logo.png" width="25" style="vertical-align: middle;"/> 2014.09 - 2016.01, [Dalian University of Technology](https://en.dlut.edu.cn/), Dalian, China
 
   
 # 📝 Publications 
