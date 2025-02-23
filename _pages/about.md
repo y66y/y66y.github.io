@@ -306,8 +306,8 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 - <u>Excellent Undergraduate of Shandong Province</u>, 2017
 - Silver Award in National Electronic Design Competition 2016
 - Excellent Student of the Ocean University of China, 2016
-- <u>National Scholarship</u>, 2016
-- Excellent Student of the Ocean University of China, 2014
+- <u>National Scholarship</u>, 2016-2017
+- Excellent Student of the Ocean University of China, 2014-2016
 - First-Class Scholarship, 2013-2017
 
 
