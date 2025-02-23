@@ -279,10 +279,21 @@ Welcome to my page! I am **Zheng (Will) Xing (邢正)**, currently pursuing a Ph
 
 
 ### Projects
-- Huawei Wireless Spectrum Prediction, Student Leader
-- Air-to-Air Missile Seeker Measurement, Student Leader
+
+### Projects
 
 
+- **Outdoor Wireless Communication Spectrum Prediction**  
+  **Role**: Principal Investigator  
+  **Duration**: 2020-2022  
+  **Collaborating Institution**: Huawei Technologies, Shenzhen.  
+  This project focused on predicting spectrum efficiency in outdoor wireless communication environments using data collected from mobile devices mounted on vehicles in Shenzhen, Chengdu, and Seoul. The data collected included CSI (Channel State Information), RSRP (Reference Signal Received Power), RSSI (Received Signal Strength Indicator), SINR (Signal-to-Interference-plus-Noise Ratio), CQI (Channel Quality Indicator), MCS (Modulation and Coding Scheme), Throughput, and Rank data from 1-6 neighboring cells and one main serving cell. I led the development of a neural network model that used this data to predict future spectrum efficiency upon receiving RSRP signals. These predictions were then transmitted back to the base station, allowing for dynamic antenna adjustments to enhance spectrum efficiency and optimize overall wireless communication performance in real-time.
+
+- **Air-to-Air Missile Effectiveness Testing**  
+  **Role**: Principal Investigator  
+  **Duration**: 2017-2020  
+  **Collaborating Institutions**: China Aerospace Corporation (First and Fifth Research Institutes), China Electronics Technology Group, China Air-to-Air Missile Research Institute.  
+  The project aimed to test the effectiveness of both newly produced and stockpiled air-to-air missiles. As the principal investigator, my responsibilities included conducting performance tests on the missile’s guidance system (seeker). This involved developing a comprehensive testing platform, which included creating an environment with temperatures ranging from -40°C to 60°C, designing a vibration simulation environment, and providing stable 16V and 28V DC power supplies. Additionally, I was responsible for ensuring the proper functioning of signal interfaces, executing missile launch sequence tests to confirm that the guidance system transmitted control signals correctly, and designing a Windows-based graphical user interface (GUI) using C, C++, and C# to facilitate test operation and monitoring.
 
 
 
