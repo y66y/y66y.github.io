@@ -24,7 +24,7 @@ author:
   name             : "Zheng Xing"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Stay hungry. Stay Foolish."
-  location         : "https://www.google.com/maps/?q=Shenzhen,+Guangdong,+China+&navigate=yes"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TjqNW9QAAAAJ"
@@ -35,7 +35,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :"https://www.facebook.com/profile.php?id=61553665386371"
   foursquare       :
   github           : "y66y"
   google_plus      :
