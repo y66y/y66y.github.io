@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zheng Xing"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Think in the future"
+  bio              : "Stay hungry,stay foolish"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=TjqNW9QAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=TjqNW9QAAAAJ"
   email            : "zhengxing@link.cuhk.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zheng-Xing-17"
+  researchgate     : # "https://www.researchgate.net/profile/Zheng-Xing-17"
   uri              : https://y66y.github.io
   bitbucket        :
   codepen          :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zheng-xing-149927221"
-  dblp             : "https://dblp.org/pid/262/2463.html"
-  orcid            : "https://orcid.org/0000-0002-9710-082X"
+  linkedin         : # "zheng-xing-149927221"
+  dblp             : # "https://dblp.org/pid/262/2463.html"
+  orcid            : # "https://orcid.org/0000-0002-9710-082X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
